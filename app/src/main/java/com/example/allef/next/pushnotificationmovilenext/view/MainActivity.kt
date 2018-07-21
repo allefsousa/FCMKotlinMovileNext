@@ -1,7 +1,8 @@
-package com.example.allef.next.pushnotificationmovilenext
+package com.example.allef.next.pushnotificationmovilenext.view
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.allef.next.pushnotificationmovilenext.R
 
 class MainActivity : AppCompatActivity() {
 
